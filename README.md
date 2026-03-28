@@ -66,4 +66,5 @@ The dataset contains the following columns:
 ---
 
 ## Screenshot / Demos
-Show what the dashboard looks like: 
+Show what the dashboard looks like:[ https://github.com/Deeepkushwaha/Nike-Sales-Dashboard/blob/main/Sales%20Dashboard.png ]
+Example: [ https://github.com/Deeepkushwaha/Nike-Sales-Dashboard/blob/main/Sales%20Dashboard.png ]
